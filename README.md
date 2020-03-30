@@ -4,7 +4,7 @@
 <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a>
 </div>
 
-# Awesome Stacks
+# Awesome Stacks 
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/stackshare/awesome-stacks)
 
 > Tech stacks for building different applications and features.
