@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 <a href="https://awesomestacks.dev/"><img alt="Pink sunglasses with text Awesome Stacks" width="680px" src="src/images/awesome-stacks-logo-github.png"></a>
 <br><br>
 <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a>
